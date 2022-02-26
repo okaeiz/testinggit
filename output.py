@@ -1,0 +1,3 @@
+cipher(numpin)
+print(numpin)
+
